@@ -1,0 +1,5 @@
+panjang = int(input("Masukan Panjang : "))
+lebar = int(input("Masukan Lebar : "))
+jari2 = int(input("Masukan Jari-Jari : "))
+jumlah = round((((3.14* jari2 * jari2)/2)+ panjang*lebar)/15)
+print ("Area tersebut membutuhkan ",jumlah, "kaleng cat")

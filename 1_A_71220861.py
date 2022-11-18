@@ -1,0 +1,5 @@
+nama = input("Masukan nama Anda :")
+matakuliah = input("Masukan nama matakuliah :")
+grup = input("Masukan grup Anda :")
+print ("Haloo!",nama)
+print ("Anda tergabung dalam ",matakuliah,"pada grup",grup)
